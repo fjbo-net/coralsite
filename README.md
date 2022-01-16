@@ -1,2 +1,2 @@
-# web-client-boilerplate
- Boilerplate for web-based (client) projects.
+# PHP Package Boilerplate
+ Boilerplate for PHP module projects (for publishing).
