@@ -1,2 +1,2 @@
-# PHP Package Boilerplate
- Boilerplate for PHP module projects (for publishing).
+# CoralSite
+FJBO CoralSite is an Object-Oriented headless templating and content management system for PHP websites.
